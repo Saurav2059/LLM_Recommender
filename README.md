@@ -1,6 +1,6 @@
 # LLM Recommendation System
 
-###Project Structure:
+### Project Structure:
 llm_recommender_full/
 │
 ├── app.py                # Main API entry point
@@ -13,7 +13,7 @@ llm_recommender_full/
 git clone https://github.com/your-username/llm_recommender_full.git
 cd llm_recommender_full
 
-###API Server
+### API Server
 uvicorn app:app --reload
 
 WorkFlow Diagram:
